@@ -1,4 +1,4 @@
-# Tableau - Citi Bike Analytics
+# Citi Bike Analytics
 
 ## Background
 
