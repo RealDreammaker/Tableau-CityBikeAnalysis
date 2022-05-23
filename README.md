@@ -17,7 +17,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 * [Tableau story](https://public.tableau.com/app/profile/hung.quoc.nguyen/viz/CityBike_16489037050090/Story?publish=yes)
 * [twbx file](CityBike.twbx) (this file can also be download from Tableau Public website from the above link)
 
-## Analysis on the phenomenons uncovered from the data
+## Analysis on the phenomena uncovered from the data
 
 * From the start of Covid pandemic in US, bike trips dropped significantly. 
 * The proportion of Short-term customers increase dramatically at the start of pandemic.
